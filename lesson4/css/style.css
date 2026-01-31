@@ -4,7 +4,7 @@ html {
 .contaner {
     border: 1px solid #000;
     max-width: 300px;
-    max-height: 520px;
+    max-height: 530px;
 }
 .changewidth {
     width: 200px;
@@ -33,7 +33,7 @@ input {
 }
 textarea {
     resize: vertical;
-    max-height: 150px;
+    max-height: 140px;
     min-height: 20px;
 }
 .button {
