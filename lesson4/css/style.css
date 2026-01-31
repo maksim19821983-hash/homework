@@ -4,7 +4,7 @@ html {
 .contaner {
     border: 1px solid #000;
     max-width: 300px;
-    max-height: 580px;
+    max-height: 520px;
 }
 .changewidth {
     width: 200px;
