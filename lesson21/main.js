@@ -16,5 +16,5 @@ let birthYear =  currentYear - age;
 console.log("Меня зовут",FIRST_NAME, LAST_NAME, "мне", age, "лет. Я ученик курса: ",ISSTUDENT)
 
 
-
-console.log ("выведется строка '123456789falsetrue'") 
+//Задча 4
+console.log ("выведется строка '123456789falsetrue'");
